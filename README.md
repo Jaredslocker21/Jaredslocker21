@@ -40,4 +40,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My most used language : 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicafransson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredslocker21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
