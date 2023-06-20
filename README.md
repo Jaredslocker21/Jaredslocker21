@@ -9,11 +9,11 @@
 
 ------
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
+I am a Full Stack Developer :dizzy: from Sweden, Formerly from the United States.
 
-- :telescope: I’m a Full Stack Software Developer and am curiously learning more and more in React.Js and Node.Js
+- :telescope: Curiously learning more and more in React.Js and Node.Js
 
-- :seedling: Exploring and learning new languages and skills.
+- :seedling: Exploring Agile and Project management, API management and more.
 
 - :heart: Swing Dance and cycling is how we relax.
 
