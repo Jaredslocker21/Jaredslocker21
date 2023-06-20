@@ -1,5 +1,15 @@
 ## Hi and welcome to my GitHub profile, I'm Jared 👋
 
+----
+
+I am a Full Stack Developer Graduate :dizzy:.
+
+- :telescope: Curiously developing more and more in React.Js and Node.Js
+
+- :seedling: Exploring Agile and Project management, API management and more.
+
+- :heart: Swing Dance and cycling is how we relax.
+
 
 ------
 
@@ -8,17 +18,6 @@
 </div>
 
 ------
-
-I am a Full Stack Developer :dizzy: from Sweden, Formerly from the United States.
-
-- :telescope: Curiously learning more and more in React.Js and Node.Js
-
-- :seedling: Exploring Agile and Project management, API management and more.
-
-- :heart: Swing Dance and cycling is how we relax.
-
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
