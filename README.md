@@ -15,7 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring and learning new languages and skills.
 
-- :zap: In my free time, I do a lot of long distance running and cycling.
+- :heart: Swing Dance and cycling is how we relax.
 
 
 ---
