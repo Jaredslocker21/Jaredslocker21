@@ -13,9 +13,8 @@ I am a Full Stack Developer Graduate | Producer | Community Organizer | Father :
 ------
 
 <div align="center">
-  <img src="https://giphy.com/embed/PxSFAnuubLkSA" width="480" height="380" allowFullScreen>
-  
-  <p><a href="https://giphy.com/gifs/with-computers-fascination-PxSFAnuubLkSA">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <iframe src="https://giphy.com/embed/Nhw1FwkchB2cIozD12" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/framebyframe-bitbang2022-arielgif-Nhw1FwkchB2cIozD12">via GIPHY</a></p>
 </div>
 
 ------
