@@ -15,6 +15,13 @@ I am a Full Stack Developer Graduate | Producer | Community Organizer | Father :
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<div style="width:100%"><div style="height:0;padding-bottom:100%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/GarMkAHxeVrYV4wKec/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div><a href="https://giphy.com/channel/sharon-liu-animation" rel="noopener noreferrer" style="clear:both;display:inline-block;height:36px;line-height:18px;margin:10px 0;padding:0 0 0 44px;position:relative" target="_blank"><img alt="" src="https://media4.giphy.com/avatars/sharon-liu-animation/ruCX2Kuts6rb/80h.jpg" style="height:36px;left:0;position:absolute;top:0;width:36px"/><div style="font-size:16px;font-weight:bold">sharon-liu.com</div><div style="font-size:14px;font-weight:normal">@sharon-liu-animation</div></a><p style="margin-top:6px"><strong>Whale be okay</strong><br/>Paper cut out &amp; traditional cel animation
+
+Designed and directed by Sharon Liu
+
+Sound design by Aaron Lampert
+
+Animation by Freya Hotson, Basil Malek &amp; Nicolette van Gendt</p></div>
 
 ------
 
