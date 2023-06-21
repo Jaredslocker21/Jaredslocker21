@@ -13,7 +13,7 @@ I am a Full Stack Developer Graduate | Producer | Community Organizer | Father :
 ------
 
 <div align="center">
-  <img src=<iframe src="https://giphy.com/embed/PxSFAnuubLkSA" width="480" height="380" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/with-computers-fascination-PxSFAnuubLkSA">via GIPHY</a></p>/>
+  <img iframe src="https://giphy.com/embed/PxSFAnuubLkSA" width="480" height="380" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/with-computers-fascination-PxSFAnuubLkSA">via GIPHY</a></p>
 </div>
 
 ------
