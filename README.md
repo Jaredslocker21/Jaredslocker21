@@ -8,7 +8,7 @@ I am a Full Stack Developer Graduate | Producer | Community Organizer | Father :
 
  :seedling: Exploring Agile, Kangan, Jeera, SCRUM, and Project management, API management and more.
 
- :heart: Swing Dance and cycling is how we relax.
+ :heart: | :man_dancing: Swing Dance and cycling is how we relax.
 
 ------
 
