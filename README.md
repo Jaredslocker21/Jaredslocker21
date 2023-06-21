@@ -2,14 +2,13 @@
 
 ----
 
-I am a Full Stack Developer Graduate :dizzy:.
+I am a Full Stack Developer Graduate | Producer | Community Organizer | Father :dizzy:.
 
-- :telescope: Curiously developing more and more in React.Js and Node.Js
+ :telescope: Curiously developing more and more in React.Js and Node.Js.
 
-- :seedling: Exploring Agile and Project management, API management and more.
+ :seedling: Exploring Agile, Kangan, Jeera, SCRUM, and Project management, API management and more.
 
-- :heart: Swing Dance and cycling is how we relax.
-
+ :heart: Swing Dance and cycling is how we relax.
 
 ------
 
