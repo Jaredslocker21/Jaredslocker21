@@ -1,8 +1,7 @@
-## Hi and welcome to my GitHub profile, I'm Jared 👋
-
+## Welcome to my GitHub profile, I'm Jared! 👋
 ----
 
-I am a Full Stack Developer Graduate | Producer | Community Organizer | Father :dizzy:.
+Full Stack Developer Graduate | Producer | Community Organizer | Father :dizzy:.
 
  :telescope: Curiously developing more and more in React.Js and Node.Js.
 
