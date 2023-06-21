@@ -17,6 +17,9 @@ I am a Full Stack Developer Graduate | Producer | Community Organizer | Father :
 </div>
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/fnlXL6G7E7eFAhTYwY/giphy.gif" width="40" height="40" />
+
+
 ------
 
 ### :hammer_and_wrench: Languages and Tools :
